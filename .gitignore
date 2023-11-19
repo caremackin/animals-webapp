@@ -42,5 +42,5 @@ testem.log
 Thumbs.db
 
 node_modules/
-db/animaldb.sqlite
+server/db/animaldb.sqlite
 .angular

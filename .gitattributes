@@ -1,0 +1,2 @@
+animal_webapp/**/* filter=lfs diff=lfs merge=lfs -text
+animal_webapp/.angular/cache/**/* filter=lfs diff=lfs merge=lfs -text
